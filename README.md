@@ -17,7 +17,7 @@
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=eanomaly2009&label=Profile%20views&color=0e75b6&style=flat" alt="anomaly2009"/></p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My Activities**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anomaly2009&theme=algolia&hide_border=true"/>
