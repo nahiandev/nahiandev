@@ -6,7 +6,7 @@
 
   - ⚡ ASP.NET Core, Express
   - ⚡ WordPress , WooCommerce , Elementor , Divi , CrocoBlock
-  - ⚡ C# , Java , Python , C++ , PHP , TypeScript , Vanilla JS
+  - ⚡ C# , Java , Python , C++ , PHP , TypeScript , Vanilla JS , F#
   - ⚡ .NET , NodeJS
   - ⚡ RDBMS / NoSQL (MSSQL , MYSQL , MongoDB)
   - ⚡ Entity Framework , Dapper , Nhibernate
@@ -14,21 +14,22 @@
   - ⚡ Git / GitHub
   - ⚡ NUnit / xUnit / MS Test
   - ⚡ Apache , Nginx , IIS
+  - ⚡ DigitalOcean , Azure Cloud
 
-  <p align="right"><img src="https://komarev.com/ghpvc/?username=eanomaly2009&label=Profile%20views&color=0e75b6&style=flat" alt="anomaly2009"/></p>
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=nahiandev&label=Profile%20views&color=0e75b6&style=flat" alt="nahiandev"/></p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My Activities**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anomaly2009&theme=algolia&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahiandev&theme=algolia&hide_border=true"/>
 </p>
 
  <p align="center">
-  <a href="https://github.com/anomaly2009">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=anomaly2009&show_icons=true&theme=algolia&count_private=true">
+  <a href="https://github.com/nahiandev">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nahiandev&show_icons=true&theme=algolia&count_private=true">
   </a>
-  <a href="https://github.com/anomaly2009">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anomaly2009&layout=compact&theme=algolia&langs_count=6" />
+  <a href="https://github.com/nahiandev">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahiandev&layout=compact&theme=algolia&langs_count=6" />
   </a>
 </p>
 
