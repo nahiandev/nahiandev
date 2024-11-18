@@ -20,9 +20,9 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My Activities**
 
-<p align="center">
+<!-- <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahiandev&theme=algolia&hide_border=true"/>
-</p>
+</p> -->
 
  <p align="center">
   <a href="https://github.com/nahiandev">
