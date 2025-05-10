@@ -25,19 +25,19 @@
 </p>
 
  <p align="center">
-  <!-- <a href="https://github.com/nahiandev">
+  <a href="https://github.com/nahiandev">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nahiandev&show_icons=true&theme=algolia&count_private=true">
   </a>
   <a href="https://github.com/nahiandev">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahiandev&layout=compact&theme=algolia&langs_count=6" />
-  </a> -->
+  </a>
 
-  <a href="https://github.com/nahiandev/GitHub-Language-Stats">
+  <!-- <a href="https://github.com/nahiandev/GitHub-Language-Stats">
 <img src="https://github.com/nahiandev/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/nahiandev/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+</a> -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=nahiandev)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=nahiandev) -->
 </p>
 
 ### Let's collaborate and bring your web development projects to life! 🚀
