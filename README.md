@@ -46,4 +46,4 @@
 
 #### 👉 [Hire me on Upwork](https://www.upwork.com/freelancers/~01ded0be5baccfa296)
 
-#### 👉 [LinkedIn](https://www.linkedin.com/in/evilprince2009/)
+#### 👉 [LinkedIn](https://www.linkedin.com/in/nahiandev/)
