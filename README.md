@@ -41,35 +41,41 @@
 </p>
 <hr>
 
-### 🧑‍💻 I SOLVE PROBLEMS, NOT ONLY BUILD FEATURES
+### 🧑‍💻 I solve problems - Not just build features
 
 ```
-class Printer {
-public:
-    void print(string document) 
-    { 
-      // do stuff 
-    }
-};
 
-class LaserPinter : public Printer 
+
+interface IInkPrinter
 {
-  // own method implementation
-};
-
-class InkPrinter : public Printer 
-{
-  // own method implementation
-};
-
-class AmbiguousPrinter : public LaserPinter, public AnalogPrinter {};
-
-int main()
-{
-  AmbiguousPrinter printer.Print(); // ❌ Ambiguous method call
-  return 0;
+    void Print(string document);
 }
 
+interface ILaserPrinter 
+{
+    void Print(string document);
+}
+
+internal class Printer : IInkPrinter, ILaserPrinter
+{
+  // Ambiguity ❌
+  void Print(string document)
+  {
+    // do stuff
+  }
+  
+  // No Ambiguity ✅
+  void IInkPrinter.Print(string document)
+  {
+    // do stuff
+  }
+
+  // No Ambiguity ✅
+  void ILaserPrinter.Print(string document)
+  {
+    // do stuff
+  }
+}
 ```
 <hr>
 
