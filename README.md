@@ -16,6 +16,7 @@
 | **Automation**  | `Selenium`, `Playwright`, `Crawlee`, `nodriver`                       |
 | **Testing**     | `xUnit`, `NUnit`                                                      |
 | **DevOps**      | `Git`, `GitHub`, `DigitalOcean`, `Azure`                              |
+| **IDE/Code Editor**      | `VSCode`, `Visual Studio`, `Rider`, `IntelliJ`               |
 
 ---
 
