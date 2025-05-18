@@ -39,6 +39,40 @@
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=nahiandev) -->
 </p>
+<hr>
+### 🧑‍💻 I SOLVE PROBLEMS, NOT ONLY BUILD FEATURES
+
+```
+class Printer {
+public:
+    void print(string document) 
+    { 
+      // do stuff 
+    }
+};
+
+class LaserPinter : public Printer 
+{
+  // own method implementation
+};
+
+class InkPrinter : public Printer 
+{
+  // own method implementation
+};
+
+class AmbiguousPrinter : public LaserPinter, public AnalogPrinter {};
+
+int main()
+{
+  AmbiguousPrinter printer.Print(); // ❌ Ambiguous method call
+  return 0;
+}
+
+```
+<hr>
+
+
 
 ### Let's collaborate and bring your web development projects to life! 🚀
 
