@@ -1,81 +1,70 @@
-### Hello there! 👋
+### 👋 Hey, I’m Nahian
 
-- 🔭 I'm a versatile `Web Developer` with a specialization in backend development. My expertise lies in crafting dynamic web tools and automating tasks to boost overall efficiency. I am dedicated to delivering top-notch, seamless solutions that optimize user experiences.
+🚀 I'm a pragmatic **Full Stack Developer** with a **backend-first mindset**. I specialize in building scalable APIs, automating workflows, and crafting tools that solve real-world problems — not just ship features.
 
-### - ⚡ Open to new opportunities, my skills encompass:
+---
 
-  - ⚡ ASP.NET Core Web API , NestJS
-  - ⚡ WordPress (both builders and custom code)
-  - ⚡ C# , Java , Python , PHP , Js/Ts
-  - ⚡ .NET , Node.js
-  - ⚡ RDBMS / NoSQL (MSSQL , MYSQL , MongoDB)
-  - ⚡ Entity Framework , Dapper , Nhibernate
-  - ⚡ Selenium WebDriver , Playwright , Crawlee , nodriver
-  - ⚡ Git / GitHub
-  - ⚡ NUnit / xUnit
-  - ⚡ DigitalOcean , Azure Cloud
+### 🧠 My Core Stack & Tools
 
-  <p align="right"><img src="https://komarev.com/ghpvc/?username=nahiandev&label=Profile%20views&color=0e75b6&style=flat" alt="nahiandev"/></p>
+| Tech Area       | Stack                                                                 |
+|-----------------|-----------------------------------------------------------------------|
+| **Languages**   | `C#`, `Java`, `Python`, `PHP`, `JS/TS`                                |
+| **Frameworks**  | `ASP.NET Core Web API`, `NestJS`, `Node.js`                          |
+| **WordPress**   | Builders + Custom Themes/Plugins                                     |
+| **Databases**   | `MSSQL`, `MySQL`, `MongoDB`                                           |
+| **ORMs**        | `EF Core`, `Dapper`, `NHibernate`                                     |
+| **Automation**  | `Selenium`, `Playwright`, `Crawlee`, `nodriver`                       |
+| **Testing**     | `xUnit`, `NUnit`                                                      |
+| **DevOps**      | `Git`, `GitHub`, `DigitalOcean`, `Azure`                              |
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My Activities**
+---
+
+### 🧪 Code That Teaches
+
+\`\`\`csharp
+// Clear interface segregation to avoid ambiguity
+interface IInkPrinter { void Print(string doc); }
+interface ILaserPrinter { void Print(string doc); }
+
+class Printer : IInkPrinter, ILaserPrinter {
+    void IInkPrinter.Print(string doc) { /* ink logic */ }
+    void ILaserPrinter.Print(string doc) { /* laser logic */ }
+}
+\`\`\`
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahiandev&theme=algolia&hide_border=true"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahiandev&theme=algolia&hide_border=true"/>
 </p>
 
- <p align="center">
+<p align="center">
   <a href="https://github.com/nahiandev">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nahiandev&show_icons=true&theme=algolia&count_private=true">
+    <img width="430" src="https://github-readme-stats.vercel.app/api?username=nahiandev&show_icons=true&theme=algolia&count_private=true">
   </a>
   <a href="https://github.com/nahiandev">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahiandev&layout=compact&theme=algolia&langs_count=6" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahiandev&layout=compact&theme=algolia&langs_count=6" />
   </a>
-
 </p>
-<hr>
 
-### 🧑‍💻 I solve problems - Not just build features
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nahiandev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-```
-interface IInkPrinter
-{
-    void Print(string document);
-}
+---
 
-interface ILaserPrinter 
-{
-    void Print(string document);
-}
+### 🤝 Let’s Collaborate
 
-internal class Printer : IInkPrinter, ILaserPrinter
-{
-  // Ambiguity ❌
-  void Print(string document)
-  {
-    // do stuff
-  }
-  
-  // No Ambiguity ✅
-  void IInkPrinter.Print(string document)
-  {
-    // do stuff
-  }
+I work best with:
+- Businesses looking to **automate manual workflows**
+- Teams needing **clean API design**
+- Clients who value **performance and maintainability**
 
-  // No Ambiguity ✅
-  void ILaserPrinter.Print(string document)
-  {
-    // do stuff
-  }
-}
-```
-<hr>
+---
 
+### 🔗 Find Me Online
 
-
-### Let's collaborate and bring your web development projects to life! 🚀
-
-<hr>
-
-#### 👉 [Hire me on Upwork](https://www.upwork.com/freelancers/~01ded0be5baccfa296)
-
-#### 👉 [LinkedIn](https://www.linkedin.com/in/nahiandev/)
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01ded0be5baccfa296)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nahiandev/)
