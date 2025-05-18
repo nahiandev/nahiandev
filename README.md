@@ -5,15 +5,14 @@
 ### - ⚡ Open to new opportunities, my skills encompass:
 
   - ⚡ ASP.NET Core Web API , NestJS
-  - ⚡ WordPress , WooCommerce , Elementor , CrocoBlock
-  - ⚡ C# , Java , Python , PHP , TypeScript , Vanilla JS
-  - ⚡ .NET , NodeJS
+  - ⚡ WordPress (both builders and custom code)
+  - ⚡ C# , Java , Python , PHP , Js/Ts
+  - ⚡ .NET , Node.js
   - ⚡ RDBMS / NoSQL (MSSQL , MYSQL , MongoDB)
   - ⚡ Entity Framework , Dapper , Nhibernate
-  - ⚡ Selenium WebDriver , Playwright , Crawlee
+  - ⚡ Selenium WebDriver , Playwright , Crawlee , nodriver
   - ⚡ Git / GitHub
   - ⚡ NUnit / xUnit
-  - ⚡ Apache , Nginx , IIS
   - ⚡ DigitalOcean , Azure Cloud
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=nahiandev&label=Profile%20views&color=0e75b6&style=flat" alt="nahiandev"/></p>
@@ -32,20 +31,12 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahiandev&layout=compact&theme=algolia&langs_count=6" />
   </a>
 
-  <!-- <a href="https://github.com/nahiandev/GitHub-Language-Stats">
-<img src="https://github.com/nahiandev/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/nahiandev/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a> -->
-
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=nahiandev) -->
 </p>
 <hr>
 
 ### 🧑‍💻 I solve problems - Not just build features
 
 ```
-
-
 interface IInkPrinter
 {
     void Print(string document);
