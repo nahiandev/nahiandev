@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m Nahian
 
-🚀 I'm a pragmatic **Full Stack Developer** with a **backend-first mindset**. I specialize in building scalable APIs, automating workflows, and crafting tools that solve real-world problems — not just ship features.
+🚀 I'm a pragmatic **`Full Stack Developer1`** with a **`backend-first mindset`**. I specialize in building scalable APIs, automating workflows, and crafting tools that solve real-world problems — not just ship features.
 
 ---
 
