@@ -58,7 +58,7 @@ class Printer : IInkPrinter, ILaserPrinter {
 ### 🤝 Let’s Collaborate
 
 I work best with:
-- Businesses looking to **automate manual workflows**
+- Solopreneurs looking to **automate manual workflows**
 - Teams needing **clean API design**
 - Clients who value **performance and maintainability**
 
