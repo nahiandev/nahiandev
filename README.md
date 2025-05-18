@@ -69,4 +69,4 @@ I work best with:
 ### 🔗 Find Me Online
 
 - 💼 [Hire on Upwork](https://www.upwork.com/freelancers/~01ded0be5baccfa296)  
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/nahiandev/)
+- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/nahiandev)
