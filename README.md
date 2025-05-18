@@ -26,10 +26,11 @@
 interface IInkPrinter { void Print(string doc); }
 interface ILaserPrinter { void Print(string doc); }
 
-class Printer : IInkPrinter, ILaserPrinter
+internal class Printer : IInkPrinter, ILaserPrinter
 {
-    void IInkPrinter.Print(string doc) { /* ink logic */ }
-    void ILaserPrinter.Print(string doc) { /* laser logic */ }
+    private void Print(string doc) { /* logic ambiguity for both printers */ } // ❌
+    private void IInkPrinter.Print(string doc) { /* ink logic */ } // ✅
+    private void ILaserPrinter.Print(string doc) { /* laser logic */ } // ✅
 }
 ```
 
