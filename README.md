@@ -21,7 +21,7 @@
 
 ### 🧪 Code That Teaches
 
-\`\`\`csharp
+```csharp
 // Clear interface segregation to avoid ambiguity
 interface IInkPrinter { void Print(string doc); }
 interface ILaserPrinter { void Print(string doc); }
@@ -30,7 +30,7 @@ class Printer : IInkPrinter, ILaserPrinter {
     void IInkPrinter.Print(string doc) { /* ink logic */ }
     void ILaserPrinter.Print(string doc) { /* laser logic */ }
 }
-\`\`\`
+```
 
 ---
 
