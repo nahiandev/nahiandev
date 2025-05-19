@@ -10,7 +10,7 @@
 |-----------------|-----------------------------------------------------------------------|
 | **Languages**   | `C#`, `Java`, `Python`, `PHP`, `JS/TS`                                |
 | **Frameworks**  | `ASP.NET Core Web API`, `NestJS`, `Node.js`                          |
-| **WordPress**   | `Builders/Themes/Plugins + Custom Code`                                     |
+| **WordPress**   | `Builders`, `Themes`, `Plugins`, `Custom Code`                                     |
 | **Databases**   | `MSSQL`, `MySQL`, `MongoDB`, `Postgres`                                           |
 | **ORMs**        | `EF Core`, `Dapper`, `NHibernate`                                     |
 | **Automation**  | `Selenium`, `Playwright`, `Crawlee`, `nodriver`                       |
