@@ -13,10 +13,10 @@
 | **Backend**  | `.NET Core Web API`, `NestJS`, `FastAPI`                          |
 | **WordPress**   | `Builders`, `Themes`, `Plugins`, `Custom Code`                                     |
 | **Databases**   | `MSSQL`, `MySQL`, `MongoDB`, `Postgres`                                           |
-| **ORMs**        | `EF Core`, `Dapper`, `NHibernate`                                     |
+| **ORMs**        | `EF Core`, `Dapper`                                     |
 | **Automation**  | `Selenium`, `Playwright`, `Crawlee`, `nodriver`                       |
 | **Testing**     | `xUnit`, `NUnit`                                                      |
-| **DevOps**      | `Git`, `GitHub`, `DigitalOcean`, `Azure`                              |
+| **DevOps**      | `Git`, `GitHub`, `DigitalOcean`                              |
 | **IDE/Code Editor**      | `VSCode`, `Visual Studio`, `Rider`, `IntelliJ`               |
 
 ---
