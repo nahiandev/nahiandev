@@ -9,6 +9,7 @@
 | Tech Area       | Stack                                                                 |
 |-----------------|-----------------------------------------------------------------------|
 | **Languages**   | `C#`, `Java`, `Python`, `PHP`, `JS/TS`                                |
+| **Frontend**   | `Angular`, `Nuxt3`                                |
 | **Backend**  | `.NET Core Web API`, `NestJS`, `FastAPI`                          |
 | **WordPress**   | `Builders`, `Themes`, `Plugins`, `Custom Code`                                     |
 | **Databases**   | `MSSQL`, `MySQL`, `MongoDB`, `Postgres`                                           |
