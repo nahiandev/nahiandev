@@ -13,7 +13,7 @@
 | **Backend**  | `.NET Web API` `NestJS` `FastAPI`                          |
 | **WordPress**   | `Builders` `Themes` `Plugins` `Custom Code`                                     |
 | **Database**   | `MSSQL` `MySQL` `MongoDB` `Postgres`                                           |
-| **ORM**        | `EF Core` `Dapper` `Typegoose`                                     |
+| **ORM**        | `EF Core` `Dapper` `Typegoose` `TypeORM`                                     |
 | **Automation**  | `Selenium` `Playwright` `Crawlee`                       |
 | **Scripting**   | `powershell` `bash` `python`                                          |
 | **Testing**     | `xUnit` `NUnit`                                                      |
