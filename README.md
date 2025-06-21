@@ -8,16 +8,17 @@
 
 | Tech Area       | Stack                                                                 |
 |-----------------|-----------------------------------------------------------------------|
-| **Languages**   | `C#`, `Java`, `Python`, `PHP`, `Js`, `Ts`                                |
-| **Frontend**   | `Angular`, `Nuxt3`                                |
-| **Backend**  | `.NET Core Web API`, `NestJS`, `FastAPI`                          |
-| **WordPress**   | `Builders`, `Themes`, `Plugins`, `Custom Code`                                     |
-| **Databases**   | `MSSQL`, `MySQL`, `MongoDB`, `Postgres`                                           |
-| **ORMs**        | `EF Core`, `Dapper`                                     |
-| **Automation**  | `Selenium`, `Playwright`, `Crawlee`, `nodriver`                       |
-| **Testing**     | `xUnit`, `NUnit`                                                      |
-| **DevOps**      | `Git`, `GitHub`, `DigitalOcean`                              |
-| **IDE/Code Editor**      | `VSCode`, `Visual Studio`, `Rider`, `IntelliJ`               |
+| **Languages**   | `C#` `Java` `Python` `PHP` `Js` `Ts`                                |
+| **Frontend**   | `Angular` `Nuxt3`                                |
+| **Backend**  | `.NET Core Web API` `NestJS` `FastAPI`                          |
+| **WordPress**   | `Builders` `Themes` `Plugins` `Custom Code`                                     |
+| **Database**   | `MSSQL` `MySQL` `MongoDB` `Postgres`                                           |
+| **ORM**        | `EF Core` `Dapper`                                     |
+| **Automation**  | `Selenium` `Playwright` `Crawlee` `nodriver`                       |
+| **Scripting**   | `powershell` `bash` `python`                                          |
+| **Testing**     | `xUnit` `NUnit`                                                      |
+| **DevOps**      | `Git` `GitHub` `DigitalOcean`                              |
+| **IDE/Code Editor**      | `VSCode` `Visual Studio` `Rider` `IntelliJ`               |
 
 ---
 
