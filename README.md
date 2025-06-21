@@ -10,7 +10,7 @@
 |-----------------|-----------------------------------------------------------------------|
 | **Languages**   | `C#` `Java` `Python` `PHP` `Js` `Ts`                                |
 | **Frontend**   | `Angular` `Nuxt3`                                |
-| **Backend**  | `.NET Core Web API` `NestJS` `FastAPI`                          |
+| **Backend**  | `.NET Web API` `NestJS` `FastAPI`                          |
 | **WordPress**   | `Builders` `Themes` `Plugins` `Custom Code`                                     |
 | **Database**   | `MSSQL` `MySQL` `MongoDB` `Postgres`                                           |
 | **ORM**        | `EF Core` `Dapper`                                     |
