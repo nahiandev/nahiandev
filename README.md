@@ -14,7 +14,7 @@
 | **WordPress**   | `Builders` `Themes` `Plugins` `Custom Code`                                     |
 | **Database**   | `MSSQL` `MySQL` `MongoDB` `Postgres`                                           |
 | **ORM**        | `EF Core` `Dapper` `Typegoose`                                     |
-| **Automation**  | `Selenium` `Playwright` `Crawlee` `nodriver`                       |
+| **Automation**  | `Selenium` `Playwright` `Crawlee`                       |
 | **Scripting**   | `powershell` `bash` `python`                                          |
 | **Testing**     | `xUnit` `NUnit`                                                      |
 | **DevOps**      | `Git` `GitHub` `DigitalOcean`                              |
