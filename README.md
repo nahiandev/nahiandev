@@ -8,7 +8,7 @@
 
 | Tech Area       | Stack                                                                 |
 |-----------------|-----------------------------------------------------------------------|
-| **Languages**   | `C#`, `Java`, `Python`, `PHP`, `TS`                                |
+| **Languages**   | `C#`, `Java`, `Python`, `PHP`, `Js`, `Ts`                                |
 | **Frontend**   | `Angular`, `Nuxt3`                                |
 | **Backend**  | `.NET Core Web API`, `NestJS`, `FastAPI`                          |
 | **WordPress**   | `Builders`, `Themes`, `Plugins`, `Custom Code`                                     |
